@@ -1,0 +1,15 @@
+H:\C#\DataStructure\bin\Debug\net7.0\DataStructure.exe
+H:\C#\DataStructure\bin\Debug\net7.0\DataStructure.deps.json
+H:\C#\DataStructure\bin\Debug\net7.0\DataStructure.runtimeconfig.json
+H:\C#\DataStructure\bin\Debug\net7.0\DataStructure.dll
+H:\C#\DataStructure\bin\Debug\net7.0\DataStructure.pdb
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.csproj.AssemblyReference.cache
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.AssemblyInfoInputs.cache
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.AssemblyInfo.cs
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.csproj.CoreCompileInputs.cache
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.dll
+H:\C#\DataStructure\obj\Debug\net7.0\refint\DataStructure.dll
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.pdb
+H:\C#\DataStructure\obj\Debug\net7.0\DataStructure.genruntimeconfig.cache
+H:\C#\DataStructure\obj\Debug\net7.0\ref\DataStructure.dll
